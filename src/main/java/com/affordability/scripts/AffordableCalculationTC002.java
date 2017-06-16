@@ -47,7 +47,7 @@ public class AffordableCalculationTC002 extends StandaloneBusinessFunctions{
 		iterationReport(1,"Test Case Completed"); 
 	}
 	//@Test (groups="OrangeBus",priority=3)
-	public void orangeBusTC002() throws Throwable 
+	/*public void orangeBusTC002() throws Throwable 
 	{
 		reportTestCaseName = "Aff_02";
 		reportApplicationName = "Orangebus";
@@ -65,5 +65,5 @@ public class AffordableCalculationTC002 extends StandaloneBusinessFunctions{
 		verifyAmountAndLoanTerm("TC002");
 		parent.appendChild(child);
 		iterationReport(1,"Test Case Completed"); 
-	}
+	}*/
 }
